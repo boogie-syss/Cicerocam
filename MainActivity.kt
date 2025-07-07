@@ -1,0 +1,1 @@
+// MainActivity with full features (preview, photo, voice, face, AR, filters)
